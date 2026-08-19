@@ -1,5 +1,5 @@
 # About Me:
-## <br><br>I'm a **AI/ML enthusiast** interested in building things that sit at the intersection of **software engineering, artificial intelligence, and systems**.<br><br><br>📍 India<br>🎓 BCA | Sant gade baba Amravati University<br>🔗 Open to collaborations, hackathons and interesting technical projects.<br>
+## <br><br>I'm a **AI/ML enthusiast** interested in building things that sit at the intersection of **software engineering, artificial intelligence, and systems**.<br><br><br>📍 India<br>🎓 BCA | Sant gadge baba Amravati University<br>🔗 Open to collaborations, hackathons and interesting technical projects.<br>
 
 
 ## 🌐 Socials:
