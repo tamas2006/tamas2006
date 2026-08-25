@@ -1,5 +1,34 @@
-# About Me:
-## <br><br>I'm a **AI/ML enthusiast** interested in building things that sit at the intersection of **software engineering, artificial intelligence, and systems**.<br><br><br>
+<div align="center">
+
+# 👋 [Tamas Ingle]
+
+**AI/ML Enthusiast · Software Engineer · Systems Builder**
+
+<p>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/YOUR_WEBSITE-5A67D8?style=for-the-badge&logo=globe&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-805AD5?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/YOUR_EMAIL-D53F8C?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/📍_Amravati,_India-38A169?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/💼_Open_to_work-3182CE?style=flat-square" alt="Open to work" />
+  <!-- Replace YOUR_GITHUB_USERNAME below with your actual username to make the view counter work -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=718096&style=flat-square&label=Profile+views" alt="Profile views" />
+</p>
+
+<p>
+  I'm an AI/ML enthusiast interested in building solutions that sit at the intersection<br>
+  of software engineering, artificial intelligence, and systems.
+</p>
+
+</div>
 
 
 ## 🌐 Socials:
