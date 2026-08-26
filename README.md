@@ -1,6 +1,6 @@
-#                                                       👋 [Tamas Ingle]
-
 <div align="center">
+
+# 👋 Tamas Ingle
 
 ### AI/ML Enthusiast · Software Engineer · Systems Builder
 
@@ -10,7 +10,10 @@ of software engineering, artificial intelligence, and systems.
 <br>
 
 <a href="https://tamas-ingle.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-EA2027?style=flat-square&logoColor=white" alt="Portfolio">
+  <img
+    src="https://img.shields.io/badge/🌐%20Portfolio-EA2027?style=for-the-badge&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
 
 </div>
