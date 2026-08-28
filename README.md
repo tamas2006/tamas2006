@@ -2,7 +2,7 @@
 
 # 👋 Tamas Ingle
 
-### AI/ML Enthusiast · Software Engineer · Systems Builder
+### AI/ML Enthusiast · Software Engineer · Systems Builder . UI/UX designer
 
 I'm an AI/ML enthusiast interested in building solutions that sit at the intersection  
 of software engineering, artificial intelligence, and systems.
